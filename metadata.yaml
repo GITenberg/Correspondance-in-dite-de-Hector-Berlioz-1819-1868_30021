@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '34323'
     url: http://www.gutenberg.org/2009/agents/34323
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30021#Correspondance-in-dite-de-Hector-Berlioz-1819-1868
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2009-09-18'
 gutenberg_type: Text
